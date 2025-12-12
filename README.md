@@ -144,7 +144,7 @@ curl http://localhost:5000/health
 
 📧 Contact
 
-Name: Janeesha Dewmini
-GitHub: https://github.com/NeeshaDewmini
+Name: Janeesha Dewmini  
+GitHub: https://github.com/NeeshaDewmini  
 LinkedIn: https://www.linkedin.com/in/janeesha-dewmini-68500b239/
 
